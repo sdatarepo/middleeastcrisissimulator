@@ -1,0 +1,42 @@
+country,category,available_lags
+Africa,"Alcoholic beverages, tobacco and narcotics",1.0
+Algeria,All Items,2.0
+Angola,Clothing and footwear,3.0
+Benin,Communication,4.0
+Botswana,Education,5.0
+Burkina Faso,Food and non-alcoholic beverages,6.0
+Burundi,"Furnishings, household equipment and routine household maintenance",7.0
+Cabo Verde,Health,8.0
+Cameroon,"Housing, water, electricity, gas and other fuels",9.0
+Central African Republic,Miscellaneous goods and services,10.0
+Chad,Recreation and culture,11.0
+Côte d'Ivoire,Restaurants and hotels,12.0
+Djibouti,Transport,
+Gabon,,
+Ghana,,
+Guinea,,
+Guinea-Bissau,,
+Kenya,,
+Liberia,,
+Libya,,
+Malawi,,
+Mali,,
+Mauritius,,
+Morocco,,
+Namibia,,
+Niger,,
+Nigeria,,
+Non Oil Producer,,
+Oil Producer,,
+Rwanda,,
+Senegal,,
+Seychelles,,
+Sierra Leone,,
+Somalia,,
+South Africa,,
+Sudan,,
+Togo,,
+Tunisia,,
+Uganda,,
+Zambia,,
+Zimbabwe,,

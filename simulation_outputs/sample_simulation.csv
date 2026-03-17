@@ -1,0 +1,25 @@
+country,category,shock_magnitude_pct,scenario,month,shock_input_pct,simulated_cpi_impact_pct_points
+Nigeria,All Items,20.0,shock_3m,1,20.0,0.06815173915489756
+Nigeria,All Items,20.0,shock_3m,2,20.0,0.156038597666031
+Nigeria,All Items,20.0,shock_3m,3,20.0,0.17674416603675305
+Nigeria,All Items,20.0,shock_3m,4,0.0,0.06307222794889511
+Nigeria,All Items,20.0,shock_3m,5,0.0,-0.11556425060136183
+Nigeria,All Items,20.0,shock_3m,6,0.0,-0.15695757959546025
+Nigeria,All Items,20.0,shock_3m,7,0.0,-0.12527505475500192
+Nigeria,All Items,20.0,shock_3m,8,0.0,-0.08521610612135119
+Nigeria,All Items,20.0,shock_3m,9,0.0,-0.05676482884758485
+Nigeria,All Items,20.0,shock_3m,10,0.0,-0.05438303421184433
+Nigeria,All Items,20.0,shock_3m,11,0.0,0.009198552219356598
+Nigeria,All Items,20.0,shock_3m,12,0.0,0.03744697253657585
+Nigeria,All Items,20.0,shock_3m,13,0.0,0.048902851993337396
+Nigeria,All Items,20.0,shock_3m,14,0.0,0.03601193696760922
+Nigeria,All Items,20.0,shock_3m,15,0.0,0.0
+Nigeria,All Items,20.0,shock_3m,16,0.0,0.0
+Nigeria,All Items,20.0,shock_3m,17,0.0,0.0
+Nigeria,All Items,20.0,shock_3m,18,0.0,0.0
+Nigeria,All Items,20.0,shock_3m,19,0.0,0.0
+Nigeria,All Items,20.0,shock_3m,20,0.0,0.0
+Nigeria,All Items,20.0,shock_3m,21,0.0,0.0
+Nigeria,All Items,20.0,shock_3m,22,0.0,0.0
+Nigeria,All Items,20.0,shock_3m,23,0.0,0.0
+Nigeria,All Items,20.0,shock_3m,24,0.0,0.0

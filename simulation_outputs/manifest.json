@@ -1,0 +1,31 @@
+{
+  "basepath": "/content/drive/MyDrive/OILPRICESIMPACT",
+  "max_lag": 12,
+  "min_obs": 36,
+  "test_case": {
+    "country": "Nigeria",
+    "category": "All Items",
+    "shock_magnitude_pct": 20.0,
+    "scenario": "shock_3m"
+  },
+  "output_files": {
+    "transformed_data": [
+      "transformed_data/cpi_long.csv",
+      "transformed_data/oil_monthly.csv",
+      "transformed_data/cpi_inflation_series.csv",
+      "transformed_data/model_dataset.csv"
+    ],
+    "dlr_parameters": [
+      "dlr_parameters/dlr_full_parameters.csv",
+      "dlr_parameters/dlr_country_all_items.csv",
+      "dlr_parameters/dlr_category_africa.csv",
+      "dlr_parameters/dlr_oil_groups.csv"
+    ],
+    "simulation_outputs": [
+      "simulation_outputs/simulation_coefficients_matrix.csv",
+      "simulation_outputs/metadata.csv",
+      "simulation_outputs/shock_templates.csv",
+      "simulation_outputs/sample_simulation.csv"
+    ]
+  }
+}
