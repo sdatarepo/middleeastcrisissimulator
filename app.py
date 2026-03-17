@@ -7,7 +7,7 @@ import streamlit as st
 st.markdown(
     """
     <h1 style="color: rgb(19, 43, 87); font-size: 28px; margin-bottom: 0; margin-top: -60px; padding-top: -60px">
-        Middle-East Crisis Impact on Africa Simulator - Scenarii: 1, 3, 6 Months Shock - Permament Shock
+        Middle-East Crisis Impact on Africa Simulator - Scenarios: 1, 3, 6 Months Shock - Permanent Shock
     </h1>
     """,
     unsafe_allow_html=True
